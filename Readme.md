@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/FunnelChart/MainPage.xaml)
+<!-- default file list end -->
 # WinRT Charts Getting Started - Lesson 3 - Create a Funnel Chart
 
 
